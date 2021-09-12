@@ -1,0 +1,9 @@
+td {
+    border: thin solid black;
+    text-align: center;
+    padding: 3px;
+}
+
+.even {
+    background-color: salmon;
+}
